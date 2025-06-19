@@ -49,43 +49,16 @@
 - **DistrictStatisticsManagement.Tests** - проект с unit-тестами
   - **DistrictStatisticsRepositoryTests.cs** - тесты для проверки запросов
 
-- **DistrictStatisticsManagement.Api** - веб-API проект для доступа к данным через HTTP
-  - **Controllers** - контроллеры для обработки HTTP запросов
-  - **Properties** - настройки запуска и конфигурации
-
 ## Как запустить проект
-
-### Запуск библиотеки и тестов
 
 1. Клонировать репозиторий
 2. Открыть решение в Visual Studio
 3. Восстановить пакеты NuGet
 4. Запустить тесты для проверки работоспособности
 
-### Запуск API
-
-1. Открыть решение в Visual Studio
-2. Установить проект `DistrictStatisticsManagement.Api` как стартовый проект (правый клик на проекте -> "Назначить стартовым проектом")
-3. Нажать F5 или кнопку "Запустить" для запуска проекта
-4. Браузер автоматически откроется на странице Swagger UI (http://localhost:5000/swagger)
-5. Инициализировать тестовые данные через эндпоинт `POST /api/DataInitialization/initialize`
-6. Использовать API для работы с данными
-
-### Основные эндпоинты API
-
-- **Предприятия**: `/api/Enterprise`
-- **Поставщики**: `/api/Supplier`
-- **Поставки**: `/api/Supply`
-- **Аналитика**: `/api/Analytics`
-- **Инициализация данных**: `/api/DataInitialization`
-
-Подробная документация по API доступна в Swagger UI после запуска проекта.
-
 ## Технологии
 
 - .NET 6.0
 - C#
 - LINQ для обработки данных
-- ASP.NET Core Web API
-- Swagger/OpenAPI
 - xUnit для тестирования
