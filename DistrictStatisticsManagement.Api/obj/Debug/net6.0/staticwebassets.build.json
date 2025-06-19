@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "TY/k+4bfsPO+hze/bNvnqDHUMTpRQZ/tfVcnRq+/37A=",
+  "Source": "DistrictStatisticsManagement.Api",
+  "BasePath": "_content/DistrictStatisticsManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DistrictStatisticsManagement.Api\\wwwroot",
+      "Source": "DistrictStatisticsManagement.Api",
+      "ContentRoot": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\",
+      "BasePath": "_content/DistrictStatisticsManagement.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\app.js",
+      "SourceId": "DistrictStatisticsManagement.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\",
+      "BasePath": "_content/DistrictStatisticsManagement.Api",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3qr737lfib",
+      "Integrity": "5Qijmz/FbK/ilDAm6pzJ1cshN+A0tKB3TfWxG6uEzB4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\index.html",
+      "SourceId": "DistrictStatisticsManagement.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\",
+      "BasePath": "_content/DistrictStatisticsManagement.Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "88e5w7itw5",
+      "Integrity": "uCytDCUXJ4quDZxxmpQD0jLdLilFjYCSSPvaaAIndIc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\styles.css",
+      "SourceId": "DistrictStatisticsManagement.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\",
+      "BasePath": "_content/DistrictStatisticsManagement.Api",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rblcezqly",
+      "Integrity": "v2I2zJ0vEu4uMbGRzQEZ3jDmFov8naEPanx0p2PLNA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.3qr737lfib.js",
+      "AssetFile": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Qijmz/FbK/ilDAm6pzJ1cshN+A0tKB3TfWxG6uEzB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3qr737lfib"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Qijmz/FbK/ilDAm6pzJ1cshN+A0tKB3TfWxG6uEzB4="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Qijmz/FbK/ilDAm6pzJ1cshN+A0tKB3TfWxG6uEzB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Qijmz/FbK/ilDAm6pzJ1cshN+A0tKB3TfWxG6uEzB4="
+        }
+      ]
+    },
+    {
+      "Route": "index.88e5w7itw5.html",
+      "AssetFile": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uCytDCUXJ4quDZxxmpQD0jLdLilFjYCSSPvaaAIndIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88e5w7itw5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uCytDCUXJ4quDZxxmpQD0jLdLilFjYCSSPvaaAIndIc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uCytDCUXJ4quDZxxmpQD0jLdLilFjYCSSPvaaAIndIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uCytDCUXJ4quDZxxmpQD0jLdLilFjYCSSPvaaAIndIc="
+        }
+      ]
+    },
+    {
+      "Route": "styles.3rblcezqly.css",
+      "AssetFile": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2I2zJ0vEu4uMbGRzQEZ3jDmFov8naEPanx0p2PLNA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rblcezqly"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2I2zJ0vEu4uMbGRzQEZ3jDmFov8naEPanx0p2PLNA4="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\dmitry\\Desktop\\Traz\\SGAYLB4\\DistrictStatisticsManagement.Api\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2I2zJ0vEu4uMbGRzQEZ3jDmFov8naEPanx0p2PLNA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2I2zJ0vEu4uMbGRzQEZ3jDmFov8naEPanx0p2PLNA4="
+        }
+      ]
+    }
+  ]
+}

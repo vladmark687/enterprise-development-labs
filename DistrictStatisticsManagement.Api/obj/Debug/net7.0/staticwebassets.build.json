@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/MfKaVVHamv3XHA2pNhqwF+UB/7VUPMqK+N69requdI=",
+  "Source": "DistrictStatisticsManagement.Api",
+  "BasePath": "_content/DistrictStatisticsManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

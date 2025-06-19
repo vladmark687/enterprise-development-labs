@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DistrictStatisticsManagement",
+    "\\DistrictStatisticsManagement.Tests",
+    "\\DistrictStatisticsManagement\\bin\\Debug",
+    "\\DistrictStatisticsManagement\\bin\\Debug\\net6.0",
+    "\\DistrictStatisticsManagement\\bin\\Release",
+    "\\DistrictStatisticsManagement\\bin\\Release\\net6.0",
+    "\\DistrictStatisticsManagement\\obj",
+    "\\DistrictStatisticsManagement\\Repository"
+  ],
+  "SelectedNode": "\\DistrictStatisticsManagement.Tests\\DistrictStatisticsRepositoryTests.cs",
+  "PreviewInSolutionExplorer": false
+}
