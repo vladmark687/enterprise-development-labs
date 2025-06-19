@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistrictStatisticsManagement.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+473c23d54b3f12b1ea16eb06ecb6063df21bf963")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistrictStatisticsManagement.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistrictStatisticsManagement.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

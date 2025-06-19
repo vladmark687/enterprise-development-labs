@@ -122,3 +122,4 @@ C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement.Api\obj\Debug\
 C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement.Api\obj\Debug\net6.0\DistrictStatisticsManagement.Api.pdb
 C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement.Api\obj\Debug\net6.0\DistrictStatisticsManagement.Api.genruntimeconfig.cache
 C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement.Api\obj\Debug\net6.0\ref\DistrictStatisticsManagement.Api.dll
+C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement.Api\obj\Debug\net6.0\DistrictStatisticsManagement.Api.sourcelink.json

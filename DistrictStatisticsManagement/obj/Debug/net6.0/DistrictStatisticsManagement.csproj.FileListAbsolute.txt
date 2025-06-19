@@ -38,3 +38,4 @@ C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement\obj\Debug\net6
 C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement\obj\Debug\net6.0\DistrictStatisticsManagement.pdb
 C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement\obj\Debug\net6.0\DistrictStatisticsManagement.genruntimeconfig.cache
 C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement\obj\Debug\net6.0\ref\DistrictStatisticsManagement.dll
+C:\Users\dmitry\Desktop\Traz\SGAYLB4\DistrictStatisticsManagement\obj\Debug\net6.0\DistrictStatisticsManagement.sourcelink.json
