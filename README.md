@@ -1,4 +1,4 @@
-# Система статистического управления района
+# Система управления статистикой района
 
 ## Описание проекта
 
@@ -89,3 +89,7 @@
 - ASP.NET Core Web API
 - Swagger/OpenAPI
 - xUnit для тестирования
+
+## Commit Information
+
+Commit by Vladislav Markov for Lab 3: CommitVladislavMarkovLB3
